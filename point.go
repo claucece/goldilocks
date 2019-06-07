@@ -1,7 +1,7 @@
 package goldilocks
 
 import (
-	"github.com/olabini/goldilocks/internal/field"
+	"github.com/claucece/goldilocks/internal/field"
 )
 
 // We will do two interfaces - one that is functional, and one that is OO, based on the functional one

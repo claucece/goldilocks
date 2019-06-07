@@ -3,7 +3,7 @@ package goldilocks
 import (
 	"fmt"
 
-	"github.com/olabini/goldilocks/internal/field"
+	"github.com/claucece/goldilocks/internal/field"
 )
 
 func printElement(name string, e *field.Element) {
